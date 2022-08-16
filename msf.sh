@@ -1,0 +1,15 @@
+
+figlet Cybersploit
+echo "                                      "
+echo "-----------------------------------------------------------------------------------------                                      "
+echo "                                      "
+echo "     All in one tool for post exploitation !  "
+echo "                                      "
+echo "-----------------------------------------------------------------------------------------                                      "
+echo "    [0] - android/meterpreter/reverse_tcp                                  "
+echo "    [1] - windows/meterpreter/reverse_tcp                                 "
+echo "    [2] - android/x64/meterpreter/reverse_tcp                                  "
+echo "    [3] - windows/x64/meterpreter/reverse_tcp                                  "
+echo "    [4] - apple_ios/aarch64/meterpreter_reverse_tcp                                  "
+echo "                                      "
+echo "-----------------------------------------------------------------------------------------                                      "
